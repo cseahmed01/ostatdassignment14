@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "servicename": "BUILD & LAUNCH WITHOUT PROBLEMS",
+        "img": "/image/service1.png"
+    },
+    {
+        "id": 2,
+        "servicename": "BUILD & LAUNCH WITHOUT PROBLEMS",
+        "img": "/image/service2.png"
+    },
+    {
+        "id": 3,
+        "servicename": "BUILD & LAUNCH WITHOUT PROBLEMS",
+        "img": "/image/service3.png"
+    },
+    {
+        "id": 4,
+        "servicename": "BUILD & LAUNCH WITHOUT PROBLEMS",
+        "img": "/image/service4.png"
+    }
+]

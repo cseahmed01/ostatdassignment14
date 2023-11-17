@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name": "Nasim Ahmed",
+        "img": "/image/teammember1.png"
+    },
+    {
+        "id": 2,
+        "name": "Polok Chowdurey",
+        "img": "/image/teammember2.png"
+    },
+    {
+        "id": 3,
+        "name": "Mamun Mia",
+        "img": "/image/teammember3.png"
+    }
+]

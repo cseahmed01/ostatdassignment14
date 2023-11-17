@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "Followers",
+        "number":"2012548",
+        "img": "/image/Group3.png"
+    },
+    {
+        "id": 2,
+        "title": "Solved Problems",
+        "number":"6000",
+        "img": "/image/Like.png"
+    },
+    {
+        "id": 3,
+        "title": "Happy Customers",
+        "number":"25000",
+        "img": "/image/Happy1.png"
+    },
+    {
+        "id": 4,
+        "title": "Projects",
+        "number":"354782",
+        "img": "/image/Scan3.png"
+    }
+]

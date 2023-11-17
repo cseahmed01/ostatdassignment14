@@ -1,0 +1,53 @@
+.active {
+    background-color: rgb(202, 26, 26);
+    color: aquamarine;
+   
+}
+
+.inactive {
+    background-color: rgb(173, 197, 218)
+}
+.nav-link.active {
+    background-color: rgb(224, 205, 205);
+    color: white;  /* Optional: Change text color for better visibility */
+    border-radius: 5px;
+}
+
+/* Custom CSS for centering inner content */
+.custom-div {
+    display: flex;
+    background-color: #D7F5DC;;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+
+}
+
+.inner-content {
+    margin-top: 10px; /* Adjust as needed */
+
+}
+.card {
+    transition: border 0.3s ease;
+}
+
+.card:hover {
+    border: 1px solid rgba(0, 0, 0, 0.125);
+}
+
+
+/* Custom CSS for centering inner content */
+.custom-div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 70px;
+    width: 70px;
+    border-radius: 5px;
+}
+
+.inner-content {
+    margin-top: 10px; /* Adjust as needed */
+}
